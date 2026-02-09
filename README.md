@@ -55,8 +55,6 @@ Invoke the wireshark and examine the various menus  and controls of the tool:
 <img width="1914" height="807" alt="image" src="https://github.com/user-attachments/assets/62d70165-cff1-4a1c-88d6-cff8948a54e7" />
 
 
-ettercap
-![alt text](07_ettercap.png)
 
 ## RESULT:
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
